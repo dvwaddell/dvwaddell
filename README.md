@@ -2,7 +2,17 @@
 - Specializing in Data Science related to forest analytics.
 - Proficient in:
   - PostgreSQL
-  - R
+- Languages
+  - CARDIAC (anyone remember this)
+  - Fortran
+  - HP Basic
+  - Pascal
+  - C
+  - Perl
+- Operating Systems
+  - Solaris
+  - Windows
+  - Linux
 - If you know JCL and remember card decks, that's how much experince I have
 - 📫 How to reach me:  dvwaddell@gmail.com
 
