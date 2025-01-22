@@ -1,6 +1,8 @@
 - Dave Waddell, RPF, MF
 - Specializing in Data Science related to forest analytics.
-- Proficient in:  PostgreSQL, R
+- Proficient in:
+  - PostgreSQL
+  - R
 - If you know JCL and remember card decks, that's how much experince I have
 - 📫 How to reach me:  dvwaddell@gmail.com
 
