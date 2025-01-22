@@ -1,7 +1,8 @@
 - Dave Waddell, RPF, MF
 - Specializing in Data Science related to forest analytics.
 - Proficient in:
-  - PostgreSQL
+  - SQL (PostgreSQL)
+  - R
 - Languages
   - CARDIAC (anyone remember this)
   - Fortran
