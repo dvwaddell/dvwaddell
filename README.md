@@ -7,7 +7,6 @@
   - CARDIAC (anyone remember this)
   - Fortran
   - HP Basic
-  - Pascal
   - C
   - Perl
 - Operating Systems
